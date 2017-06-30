@@ -19,7 +19,7 @@
 Сервер отличается от клиента только наличием у него функции-обработчика входящих сообщений, поменявшимися местами портами приема себе и передачи клиенту, и частично переделанным (под постоянное ожидание без ввода) бесконечным циклом и выводом.
 
 Скриншоты выполнения:
-![http://i.imgur.com/vRgBKg8.png]
-![http://i.imgur.com/l0EdKHh.png]
-![http://i.imgur.com/sqIx7H2.png]
-![http://i.imgur.com/0f8A07T.jpg]
+![1](http://i.imgur.com/vRgBKg8.png)
+![2](http://i.imgur.com/l0EdKHh.png)
+![3](http://i.imgur.com/sqIx7H2.png)
+![4](http://i.imgur.com/0f8A07T.jpg)
